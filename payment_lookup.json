@@ -1,1 +1,34 @@
-{"hello": "world"}
+{
+  "payments":[
+    {
+      "dateReceived":"24\/01\/2011",
+      "amount":200165.41,
+      "description":"ANZ EFT 21.01.2011 NO REMIT"
+    },
+    {
+      "dateReceived":"19\/01\/2011",
+      "amount":9827.33,
+      "description":"ANZ EFT 18.01.2011 NO REMIT CLOSE A\/C"
+    },
+    {
+      "dateReceived":"17\/01\/2011",
+      "amount":1101313.42,
+      "description":"ANZ EFT 14.01.2011 NO REMIT"
+    },
+    {
+      "dateReceived":"14\/01\/2011",
+      "amount":481577.00,
+      "description":"ANZ EFT 13.01.2011 NO REMIT"
+    },
+    {
+      "dateReceived":"11\/01\/2011",
+      "amount":3053701.65,
+      "description":"ANZ EFT 10.01.2011 NO REMIT"
+    },
+    {
+      "dateReceived":"05\/01\/2011",
+      "amount":548045.86,
+      "description":"ANZ EFT 04.01.2011 NO REMIT"
+    }
+  ]
+}
